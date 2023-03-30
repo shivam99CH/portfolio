@@ -47,7 +47,7 @@
 
       <div class="profile">
         <img src="assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
-        <h1 class="text-light"><a href="index.html">Shivam</a></h1>
+        <h1 class="text-light"><a href="index.html">Shivam Garg</a></h1>
         <div class="social-links mt-3 text-center">
           <!-- <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a> -->
           <a href="mailto:shivamgarg9784@gmail.com" class="facebook" target="_blank"><i class="bx bx-envelope"></i></a>
